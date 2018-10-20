@@ -1,2 +1,2 @@
-# Econometria-6
-Aula 6
+# A6-Econometria
+# Econometria Avançada Aula 6
